@@ -1,6 +1,3 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1000&color=4BF7DE&multiline=true&width=500&height=80&lines=if+(visitor)%7B;makeYourselfSoundCool();%7D)](https://git.io/typing-svg)
-
 ![Header](./gh-header.png)
 
 ## I'm a `designer` and `developer` based in `Canada` 
